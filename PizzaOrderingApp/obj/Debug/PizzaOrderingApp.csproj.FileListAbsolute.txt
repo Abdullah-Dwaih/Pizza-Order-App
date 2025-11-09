@@ -1,0 +1,12 @@
+D:\programming advices\My Projects\PizzaOrderingApp\bin\Debug\PizzaOrderingApp.exe.config
+D:\programming advices\My Projects\PizzaOrderingApp\bin\Debug\PizzaOrderingApp.exe
+D:\programming advices\My Projects\PizzaOrderingApp\bin\Debug\PizzaOrderingApp.pdb
+D:\programming advices\My Projects\PizzaOrderingApp\obj\Debug\PizzaOrderingApp.csproj.AssemblyReference.cache
+D:\programming advices\My Projects\PizzaOrderingApp\obj\Debug\PizzaOrderingApp.Properties.Resources.resources
+D:\programming advices\My Projects\PizzaOrderingApp\obj\Debug\PizzaOrderingApp.csproj.GenerateResource.cache
+D:\programming advices\My Projects\PizzaOrderingApp\obj\Debug\PizzaOrderingApp.csproj.CoreCompileInputs.cache
+D:\programming advices\My Projects\PizzaOrderingApp\obj\Debug\PizzaOrderingApp.exe
+D:\programming advices\My Projects\PizzaOrderingApp\obj\Debug\PizzaOrderingApp.pdb
+D:\programming advices\My Projects\PizzaOrderingApp\obj\Debug\PizzaOrderingApp.exe.config
+D:\programming advices\My Projects\PizzaOrderingApp\obj\Debug\PizzaOrderingApp.frm_MainScreen.resources
+D:\programming advices\My Projects\PizzaOrderingApp\obj\Debug\PizzaOrderingApp.frm_OrderScreen.resources
